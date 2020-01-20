@@ -1,5 +1,9 @@
 ## Available Scripts
 
-### `yarn start`
+### `npm run dev-server`
+To run server
 
-Basic user authentication using Node, Express, MongoDB, React & Redux.
+### `npm run dev`
+To run both React & express server concurrently.
+
+Basic user authentication code using Node, Express, MongoDB, React & Redux.
